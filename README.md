@@ -1,2 +1,8 @@
 # Homepage
 My very own personal website. Basically this is just a résumé
+
+Hello everyone! Welcome to my reseme website!
+
+*[GithubPages](https://boooeller.github.io/homepage)
+*[Website](https://boooeller.github.io/homepage)
+
